@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pandas
+pickle-mixin
+numpy
+requests
+streamlit-lottie
